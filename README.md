@@ -47,3 +47,23 @@
 - #### Level 3 (조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기)
     - 파일명 : SQL_10
     - 문제 링크 : [조회수가 가장 많은 중고거래 게시판의 첨부파일 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164671)
+    
+- #### Level 2 (조건에 부합하는 중고거래 상태 조회하기)
+    - 파일명 : SQL_11
+    - 문제 링크 : [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
+
+- #### Level 3 (조건별로 분류하여 주문상태 출력하기)
+    - 파일명 : SQL_12
+    - 문제 링크 : [조건별로 분류하여 주문상태 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131113)
+
+- #### Level 3 (대여 기록이 존재하는 자동차 리스트 구하기)
+    - 파일명 : SQL_13
+    - 문제 링크 : [대여 기록이 존재하는 자동차 리스트 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/157341)
+
+- #### Level 2 (카테고리 별 상품 개수 구하기)
+    - 파일명 : SQL_14
+    - 문제 링크 : [카테고리 별 상품 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131529)
+
+- #### Level 4 (취소되지 않은 진료 예약 조회하기)
+    - 파일명 : SQL_15
+    - 문제 링크 : [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
