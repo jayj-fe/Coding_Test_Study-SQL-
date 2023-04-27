@@ -67,7 +67,7 @@
 - #### Level 4 (취소되지 않은 진료 예약 조회하기)
     - 파일명 : SQL_15
     - 문제 링크 : [취소되지 않은 진료 예약 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/132204)
-    
+
 <br>
 
 #### GROUP BY ( GROUP_BY 폴더 )
@@ -107,6 +107,34 @@
 - #### Level 3 (자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기)
     - 파일명 : Group_By_09
     - 문제 링크 : [자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/157340)
+
+- #### Level 4 (식품분류별 가장 비싼 식품의 정보 조회하기)
+    - 파일명 : Group_By_10
+    - 문제 링크 : [식품분류별 가장 비싼 식품의 정보 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/131116)
+
+- #### Level 3 (대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기)
+    - 파일명 : Group_By_11
+    - 문제 링크 : [대여 횟수가 많은 자동차들의 월별 대여 횟수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151139)
+
+- #### Level 3 (저자 별 카테고리 별 매출액 집계하기)
+    - 파일명 : Group_By_12
+    - 문제 링크 : [저자 별 카테고리 별 매출액 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144856)
+
+- #### Level 4 (년, 월, 성별 별 상품 구매 회원 수 구하기)
+    - 파일명 : Group_By_13
+    - 문제 링크 : [년, 월, 성별 별 상품 구매 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131532)
+
+- #### Level 4 (입양 시각 구하기(2))
+    - 파일명 : Group_By_14
+    - 문제 링크 : [입양 시각 구하기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/59413)
+
+- #### Level 3 (카테고리 별 도서 판매량 집계하기)
+    - 파일명 : Group_By_15
+    - 문제 링크 : [카테고리 별 도서 판매량 집계하기](https://school.programmers.co.kr/learn/courses/30/lessons/144855)
+
+- #### Level 3 (조건에 맞는 사용자와 총 거래금액 조회하기)
+    - 파일명 : Group_By_16
+    - 문제 링크 : [조건에 맞는 사용자와 총 거래금액 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164668)
     
 <br>
 
