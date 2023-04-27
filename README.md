@@ -219,3 +219,27 @@
 - #### Level 1 (조건에 맞는 회원수 구하기)
     - 파일명 : SELECT_20
     - 문제 링크 : [조건에 맞는 회원수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131535)
+
+<br>
+
+#### IS NULL ( IS_NULL 폴더 )
+
+- #### Level 1 (경기도에 위치한 식품창고 목록 출력하기)
+    - 파일명 : IS_NULL_01
+    - 문제 링크 : [경기도에 위치한 식품창고 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131114)
+
+- #### Level 1 (이름이 없는 동물의 아이디)
+    - 파일명 : IS_NULL_02
+    - 문제 링크 : [이름이 없는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/parts/17045)
+
+- #### Level 1 (이름이 있는 동물의 아이디)
+    - 파일명 : IS_NULL_03
+    - 문제 링크 : [이름이 있는 동물의 아이디](https://school.programmers.co.kr/learn/courses/30/lessons/59407)
+
+- #### Level 2 (NULL 처리하기)
+    - 파일명 : IS_NULL_04
+    - 문제 링크 : [NULL 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/59410)
+
+- #### Level 1 (나이 정보가 없는 회원 수 구하기)
+    - 파일명 : IS_NULL_05
+    - 문제 링크 : [나이 정보가 없는 회원 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131528)
